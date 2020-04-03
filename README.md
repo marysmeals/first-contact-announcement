@@ -38,6 +38,7 @@ We need at least one person for each of the following roles:
 * [LetsTrace.org](https://letstrace.org/)
 * [COVID Safe Paths](https://covidsafepaths.org/)
 * [COVID Watch](https://www.covid-watch.org/)
+* [COVID19 Tracing](https://covid19tracing.org/)
 * [CoronaTrace](https://corona-trace.github.io/)
 * [ContactTracing](https://contacttracing.app/en/)
 * [covid-app.io](https://www.covid-app.io/)
