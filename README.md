@@ -39,6 +39,7 @@ We need at least one person for each of the following roles:
 * [COVID Safe Paths](https://covidsafepaths.org/)
 * [COVID Watch](https://www.covid-watch.org/)
 * [CoronaTrace](https://corona-trace.github.io/)
+* [ContactTracing](https://contacttracing.app/en/)
 * [covid-app.io](https://www.covid-app.io/)
 * [pandoa.org](https://pandoa.org/)
 * [bandemic.app](https://bandemic.app/)
