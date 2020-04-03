@@ -19,6 +19,9 @@ We need at least one person for each of the following roles:
 - Backend developer (NodeJS, Python or something else)
 - Medic / Epidemiologist to help us with the in-app symptoms questionnaire and guidelines
 - UI/Graphical Designer (logo, app GUI, simple presentation website)
+- Tester
+
+If you think you might be able to help with any of the above, or just want to talk to us about the project, you can reach us at valentin.radoi@gmail.com or over Skype at https://join.skype.com/invite/kvFCKSZVFbmR
 
 ## GOALS
 - Have a Minimum Viable Product launched as soon as possible, ideally in a matter of days. We can improve and extend it through future updates, but it's critical to get it going right away before COVID19 becomes too wide-spread.
